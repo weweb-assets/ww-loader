@@ -1,7 +1,7 @@
 {
-    "name": "ww-spinner",
+    "name": "ww-loader",
     "repository": {
-        "url": "https://github.com/weweb-assets/ww-spinner"
+        "url": "https://github.com/weweb-assets/ww-loader"
     },
     "version": "1.0.0",
     "license": "MIT",
