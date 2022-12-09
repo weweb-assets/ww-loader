@@ -3,7 +3,7 @@ export default {
         label: {
             en: 'Loader',
         },
-        icon: 'fontawesome/solid/spinner',
+        icon: 'loader',
     },
     properties: {
         spinner: {
