@@ -35,8 +35,10 @@ export default {
                 en: 'Color',
             },
             type: 'Color',
-            defaultValue: '#F23636',
             bindable: true,
+            responsive: true,
+            states: true,
+            classes: true,
         },
         size: {
             label: {
@@ -46,7 +48,10 @@ export default {
             options: {
                 unitChoices: [{ value: 'px', label: 'px', min: 0, max: 2000 }],
             },
-            defaultValue: '100px',
+            bindable: true,
+            responsive: true,
+            states: true,
+            classes: true,
         },
     },
 };
