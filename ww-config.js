@@ -47,6 +47,7 @@ export default {
             type: 'Length',
             options: {
                 unitChoices: [{ value: 'px', label: 'px', min: 0, max: 2000 }],
+                noRange: true,
             },
             bindable: true,
             responsive: true,
