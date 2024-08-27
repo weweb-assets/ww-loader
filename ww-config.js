@@ -5,6 +5,9 @@ export default {
         },
         icon: 'loader',
     },
+    options: {
+        displayAllowedValues: ['flex', 'inline-flex']
+    },
     properties: {
         spinner: {
             label: {

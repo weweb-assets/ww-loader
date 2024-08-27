@@ -114,9 +114,7 @@ export default {
 
 <style lang="scss" scoped>
 .ww-loader {
-    display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
 }
 </style>
